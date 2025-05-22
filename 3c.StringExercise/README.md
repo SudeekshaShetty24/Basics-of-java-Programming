@@ -1,4 +1,4 @@
-[3c1]->()
+[3c1]->(https://github.com/SudeekshaShetty24/Basics-of-java-Programming/blob/main/3c.StringExercise/lab_3c1.png)
 
 [3c2]->()
 
