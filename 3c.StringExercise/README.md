@@ -6,4 +6,4 @@
 
 [3c4]->(https://github.com/SudeekshaShetty24/Basics-of-java-Programming/blob/main/3c.StringExercise/lab_3c4.png)
 
-[3c5]->()
+[3c5]->(https://github.com/SudeekshaShetty24/Basics-of-java-Programming/blob/main/3c.StringExercise/lab_3c5.png)
